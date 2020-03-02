@@ -256,8 +256,8 @@ export default {
     flex-wrap: wrap;
     .first-item {
       img {
-        width: 610px;
-        height: 429px;
+        width: 604px;
+        height: 100%;
       }
     }
   }

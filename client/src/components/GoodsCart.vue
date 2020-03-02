@@ -69,14 +69,15 @@ $yellow-border: #d5b480;
 
 .goodsCart {
   position: relative;
-  width: 304px;
+  width: 302px;
   height: 429px;
   padding: 0px 20px;
   text-align: center;
   background: #fff;
   font-size: 12px;
   box-sizing: border-box;
-  border: 1px solid $border-color;
+  border-right: 1px solid $border-color;
+  border-bottom: 1px solid $border-color;
   .tag {
     position: absolute;
     right: 10px;
